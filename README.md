@@ -1,4 +1,5 @@
 ### Hi there 👋
+## 🌱 I’m currently learning JavaScript
 
 <!--
 **andrew-front-end/andrew-front-end** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
