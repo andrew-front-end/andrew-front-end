@@ -1,5 +1,12 @@
 # Hi there 👋
 ## 🌱 I’m currently learning JavaScript
+I'm a student of Skillbox.
+
+Music is a great part of my life. I'm a professional musician.
+I'd worked in symphonic orchestra for at least 15 years. There were amazing years in my life.
+But some time ago I understand that I want to change my lifestyle and be more then a musician.
+
+So, I decided to study programming. Good luck to me!
 
 <!--
 **andrew-front-end/andrew-front-end** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
