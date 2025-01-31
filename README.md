@@ -1,10 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhydW5sM3YxajJianJ3MXlmM3V3bmdlZmNkOTZicG9hcWpkdHhuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpTXlLhThF29ai4/giphy.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhydW5sM3YxajJianJ3MXlmM3V3bmdlZmNkOTZicG9hcWpkdHhuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpTXlLhThF29ai4/giphy.gif" width="300"/>
   <br>
   <br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/andrew-smirnoff/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://codepen.io/trandmas">
+      <img src="https://img.shields.io/badge/Codepen-47CF73?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
     </a>
     <a href="https://t.me/s_andrew_dev">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
